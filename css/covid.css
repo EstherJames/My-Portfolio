@@ -1,0 +1,17 @@
+.header {
+padding: 15px 24px;
+background-color: darkblue;
+color: white;
+}
+
+.covid h1 {
+    color: green;
+    border: 1px dotted green;
+}
+
+footer {
+    padding: 15px 20px;
+    background-color: #000080;
+    color: white;
+    text-align:center;
+    }
